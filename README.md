@@ -52,19 +52,6 @@ function CreateBeast(name, pos)
     -- Aquí se puede añadir más código para el comportamiento específico
 end
 cl_beasts.lua:
-
-Este archivo maneja el código del lado del cliente, como mostrar información o efectos visuales específicos si es necesario. Se puede expandir para añadir interfaces gráficas.
-addon.json:
-
-Aquí se almacenan los metadatos del addon, como su nombre, versión y descripción. Puedes agregar los detalles del addon en este archivo, como una pequeña descripción de qué trata.
-Ejemplo de addon.json:
-{
-    "name": "Animales Fantásticos para HogwartsRP",
-    "version": "1.0",
-    "description": "Addon que introduce animales fantásticos con IA avanzada en HogwartsRP",
-    "author": "Ryuj Darkness"
-}
-¿Qué falta por añadir?
 Modelos de los animales fantásticos:
 
 En la carpeta models/, debes añadir los modelos 3D de los animales (archivos .mdl). Estos modelos representarán físicamente a las criaturas en el juego.
