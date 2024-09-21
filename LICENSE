@@ -1,24 +1,26 @@
-This is free and unencumbered software released into the public domain.
+/*
+ * Copyright (c) 2024 Rubén Manuel (Ryuj Darkness)
+ * Todos los derechos reservados.
+ *
+ * Descripción:
+ * Este código es parte del addon de vampiros en HogwartsRP. 
+ * Fue creado para implementar características únicas y avanzadas relacionadas 
+ * con la mecánica de juego de los vampiros, incluyendo habilidades especiales, 
+ * velocidad de movimiento, y un sistema de hermandades. 
+ *
+ * Este código está protegido por la legislación de derechos de autor vigente 
+ * en España, de acuerdo con la Ley de Propiedad Intelectual (Real Decreto 
+ * Legislativo 1/1996, de 12 de abril) y por las leyes de derechos de autor 
+ * de los Estados Unidos (Título 17 del Código de los Estados Unidos). 
+ * Cualquier modificación, redistribución o uso de este código sin el 
+ * permiso explícito de Rubén Manuel está estrictamente prohibido.
+ *
+ * Este código es el resultado de un esfuerzo considerable y se proporciona 
+ * "tal cual", sin ninguna garantía, expresa o implícita. El autor no se 
+ * hace responsable de ningún daño o pérdida derivada del uso de este 
+ * código.
+ *
+ * Para obtener permiso para usar o modificar este código, por favor 
+ * contacta a Rubén Manuel a través de Discord: Ryuj-45654#9938.
+ */
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
